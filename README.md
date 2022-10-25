@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @VelahMwa
+- 👋 Hi, I’m Velah, He/Him
 - 👀 I’m interested in Gamedev and Webdev
-- 🌱 I’m currently learning Java and Lua
-- 💞️ I’m looking to collaborate on future Roblox games or Minecraft modding
-- 📫 How to reach me (to be decided!)
+- 🐍 I'm a Python programmer
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on future Roblox games and Discord bot development
+- 📫 How to reach me: Velah#4079 on Discord
 
 <!---
 VelahMwa/VelahMwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
