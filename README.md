@@ -3,4 +3,4 @@
 - 🐍 I'm a Python programmer
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on future Roblox games and Discord bot development
-- 📫 How to reach me: Velah#4079 on Discord
+- 📫 How to reach me: Southside#0001 on Discord
