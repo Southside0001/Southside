@@ -2,5 +2,5 @@
 - 👀 I’m interested in Gamedev and Webdev
 - 🐍 I'm a Python programmer
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on future Roblox games and Discord bot development
+- 💞️ I’m looking to collaborate on Discord bots development
 - 📫 How to reach me: Southside#0001 on Discord
